@@ -1,0 +1,9 @@
+body{background-color:#354380;}
+h1{font-family: lobster;font font-size: 40px;color:orange;}
+p{font-family: Helvetica;font-size: 24px;color: white;}
+a{font-family: Helvetica;font-size: 24px;color: yellow;text-decoration: none;}
+a:hover{color: lightblue;}
+a:visited {color: darkgray;}
+img{border-style: solid;border-width: 10px;border-color: yellow;}
+li{display: inline;}
+ul{list-style-type: none;margin: 0;padding: 0;}
